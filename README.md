@@ -8,4 +8,4 @@ The only coding experience I have prior to this course is editing my Tumblr them
 1. Learn UX best practices
 2. Become a leader in digital strategy
 3. Continue to grow in the healthcare marketing space
-4. Develop better ways to connect with communities worldwide, patients and physicians.
+4. Develop better ways to connect with communities worldwide, patients and physicians
