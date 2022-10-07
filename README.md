@@ -5,7 +5,4 @@ Hi! I'm Jess. I'm located in Pompano Beach, FL. Some things I love include runni
 ## Past Coding Experience
 The only coding experience I have prior to this course is editing my Tumblr theme in high school.
 ## Career Goals
-1. Learn UX best practices
-2. Become a leader in digital strategy
-3. Continue to grow in the healthcare marketing space
-4. Develop better ways to connect with communities worldwide, patients and physicians
+Learn UX best practices & become a leader in digital strategy.
